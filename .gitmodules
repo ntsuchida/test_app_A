@@ -1,0 +1,3 @@
+[submodule "test_app_submodule"]
+	path = test_app_submodule
+	url = git@github.com:ntsuchida/test_app_submodule.git
